@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image-1.png)
 # Hi there! 👋
 
 I'm Ujjayant Kadian, a final-year student at Trinity College Dublin and currently interning at Intel Client AI Movidius in the Compiler Team. I have a keen interest in diving into deep learning and exploring its applications.
