@@ -10,7 +10,7 @@ I'm Ujjayant Kadian, a final-year student at Trinity College Dublin and currentl
 - 🌱 Currently exploring advanced concepts in deep learning.
 - 💻 Proficient in JavaScript, HTML, CSS, NodeJS-ExpressJS, MongoDB, SQL, Python, C, C++.
 - 🚀 Expert in full-stack web development with experience in creating interactive websites.
-- 🤖 Experienced in data structures in C, implementing algorithms, especially in the realm of deep learning.
+- 🤖 Experienced in data structures in C and implementing algorithms in it.
 - 🧠 Familiar with deep learning concepts such as Linear Regression, Logistic Regression, FeedForward Neural Networks, and Convolutional Neural Networks.
 - 🌐 Completed a Bioimaging Project with a focus on tumour segmentation and classification.
 - 💡 Knowledgeable in Digital System Design with Verilog.
@@ -41,8 +41,11 @@ I'm Ujjayant Kadian, a final-year student at Trinity College Dublin and currentl
 
 - [Interactive Website 1](Link to Project 1): Brief description or tagline.
 - [Interactive Website 2](Link to Project 2): Brief description or tagline.
-- [Deep Learning Algorithm Implementation](Link to Project 3): Brief description or tagline.
-- [Bioimaging Project - Tumor Segmentation & Classification](Link to Project 4): Brief description or tagline.
+- [P2P File Sharing Application](https://github.com/daireon008/p2cn): Designed a peer-to-peer network responsible for file-sharing between the nodes.
+- [Implementation of Hash Tables](https://github.com/ujjayant-kadian/implementation-of-hash-table-using-csv-file): Implemented a hash table to store the last names of the people involved with the 1641 Irish Rebellion.
+- [Database using BST]([https://github.com/ujjayant-kadian/implementation-of-hash-table-using-csv-file](https://github.com/ujjayant-kadian/database-using-bst)): Developed a faster method of implementing databases using binary search trees.
+- [Implementation of Hash Tables](https://github.com/ujjayant-kadian/implementation-of-hash-table-using-csv-file): Developed a faster method of implementing databases using binary search trees.
+- [Bioimaging Project - Tumor Segmentation & Classification](https://github.com/ujjayant-kadian/deep-learning-projects/tree/main/lab-06): Trained two neural networks for Classification and Segmentation.
 <!-- Add more as needed -->
 
 ## 📈 GitHub Stats
