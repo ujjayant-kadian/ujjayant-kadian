@@ -39,15 +39,13 @@ I'm Ujjayant Kadian, a final-year student at Trinity College Dublin and currentl
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide=contribs,prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjayant-kadian&show_icons=true&hide=contribs,prs&theme=radical)
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Ujjayant Kadian](Your LinkedIn Profile Link)
-- Twitter: [@YourTwitterHandle](Your Twitter Handle)
-- Portfolio: [Your Portfolio Website](Your Portfolio Link)
+- LinkedIn: [Ujjayant Kadian](https://www.linkedin.com/in/ujjayantkadian/)
 
 Feel free to reach out! 😊
 
 <!-- Optional: Add a quote or fun fact -->
-> "The only way to do great work is to love what you do." - Steve Jobs
+> "Programming is not about typing, it's about thinking." - Rich Hickey
