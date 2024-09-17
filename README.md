@@ -1,28 +1,36 @@
 ![Header](./github-header-image-1.png)
 # Hi there! 👋
 
-I'm Ujjayant Kadian, a final-year student at Trinity College Dublin and currently interning at Intel Client AI Movidius in the Compiler Team. I have a keen interest in diving into deep learning and exploring its applications.
+I'm Ujjayant Kadian, a graduate student at Trinity College Dublin pursuing a Master’s in Computer Engineering. Recently, I completed an internship at Intel Client AI Movidius, where I was part of the Compiler Team, focusing on optimizing AI models and contributing to cutting-edge technology.
 
 ## 🚀 About Me
 
-- 💼 Intern at Intel Client AI Movidius, Compiler Team.
-- 🎓 4th Year Student at Trinity College Dublin.
-- 🌱 Currently exploring advanced concepts in deep learning.
-- 💻 Proficient in JavaScript, HTML, CSS, NodeJS-ExpressJS, MongoDB, SQL, Python, C, C++.
-- 🚀 Expert in full-stack web development with experience in creating interactive websites.
-- 🤖 Experienced in data structures in C and implementing algorithms in it.
+- 🎓 Currently pursuing a Master’s in Computer Engineering at Trinity College Dublin.
+- 💼 Former Intern at Intel Client AI Movidius, Compiler Team. During my internship, I:
+   - Gained hands-on experience optimizing AI models using the OpenVINO toolkit.
+   - Developed and tested compiler optimizations for efficient AI inference.
+   - Contributed to open-source projects by merging pull requests for OpenVINO, Open-Model-Zoo, and OpenCV.
+   - Created the first ever ["Hello NPU"](https://github.com/openvinotoolkit/openvino_notebooks/tree/latest/notebooks/hello-npu) notebook to facilitate onboarding to Intel’s NPU platforms.
+- 💻 Proficient in C++ and Python and have hands-on experience with AI/ML tools such as OpenVINO, Tensorflow and Pytorch.
+- 🌱 Currently exploring advanced concepts in deep learning and various AI optimization techniques.
 - 🧠 Familiar with deep learning concepts such as Linear Regression, Logistic Regression, FeedForward Neural Networks, and Convolutional Neural Networks.
-- 🌐 Completed a Bioimaging Project with a focus on tumour segmentation and classification.
+- 🚀 Friendly in full-stack web development with experience in creating interactive websites.
+- 🤖 Experienced in data structures in C and implementing algorithms in it.
 - 💡 Knowledgeable in Digital System Design with Verilog.
 
 ## 🔧 Technologies & Tools
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Verilog](https://img.shields.io/badge/-Verilog-1D365D?style=flat-square&logo=verilog&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Verilog](https://img.shields.io/badge/-Verilog-1D365D?style=flat-square&logo=verilog&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### AI/ML Tools
+![OpenVINO](https://img.shields.io/badge/OpenVINO-004B49?style=flat-square&logo=openvino&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 ### Web Development
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white)
